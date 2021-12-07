@@ -2,7 +2,7 @@
 
 This repository contains the code for the following paper:
 
-
+Sama Ghoba, Nathan Colaner, (2021) **Counterfactual Fairness in Mortgage Lending via Matching and Randomization**, in *NeurIPS Workshop Algorithmic Fairness through the lens of Causality and Robustness*, https://arxiv.org/abs/2112.02170 
 
 ## Steps to run the code
 
